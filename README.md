@@ -31,7 +31,16 @@ However: I'm still working on my projects listed above, so if you want to help m
 ### 🔧 Tech Stack
 C (memory basics, algorithms, CLI tools,...) • Java (Android, OOP) • Dart & Flutter (UI, state management, cross plattform) • Linux (daily driver, distros tested) • Git
 
-![naibaf-1's Github Stats](https://github-readme-stats.vercel.app/api?username=naibaf-1&show_icons=true&commits_year=2025&theme=dark&bg_color=00000000)
+### Repositories
+###### 📱 GymTrim
+A nice gym application for Android  
+<img src="./assets/Screenshot_GymTrim_Plans.png" height="250"/>
+
+###### 🖼️ GNOME-Wallpaper-Collection
+A collection of pretty wallpapers for the GNOME desktop  
+<img src="./assets/Batam_Panbil_Windham_Bar_Preview.gif" width="300"/>
+
+![naibaf-1's Github Stats](https://github-readme-stats.vercel.app/api?username=naibaf-1&show_icons=true&theme=dark&bg_color=00000000)
 
 ### 👥 Contact
 If you want to contact me you can do so via this mail address: Roland.Fabian@pm.me
