@@ -40,7 +40,10 @@ A nice gym application for Android
 A collection of pretty wallpapers for the GNOME desktop  
 <img src="./assets/Batam_Panbil_Windham_Bar_Preview.gif" width="300"/>
 
-![naibaf-1's Github Stats](https://github-readme-stats.vercel.app/api?username=naibaf-1&show_icons=true&theme=dark&bg_color=00000000)
+![naibaf-1's Github Stats](https://github-readme-stats.vercel.app/api?username=naibaf-1&show_icons=true&theme=dark)
+
+###2
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=naibaf-1&show_icons=true&theme=dark)
 
 ### 👥 Contact
 If you want to contact me you can do so via this mail address: Roland.Fabian@pm.me
