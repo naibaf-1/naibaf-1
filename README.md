@@ -43,4 +43,4 @@ However: I'm still working on my projects listed above, so if you want to help m
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naibaf-1&theme=github_dark" width="700"/> 
 
 ### 👥 Contact
-If you want to contact me you can do so via this mail address: Roland.Fabian@pm.me
+If you want to contact me, you can do so via this mail address: Roland.Fabian@pm.me
