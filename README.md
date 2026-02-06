@@ -6,7 +6,7 @@ So far **I learned C, Java, Flutter and a little bit about the way Linux and And
 - **[GNOME-Wallpaper-Collection](https://github.com/naibaf-1/GNOME-Wallpaper-Collection):** *A collection of nice wallpapers*
 - **[CodeJudgeOrg](https://github.com/CodeJudgeOrg):** *My organisation behind a simple code judge using C and Flutter, which simulates exams*
 
-I want to collaborate on some nice projects, because **I want to show and improve my skills**. At the moment I'm also diving into some nice AI stuff, by **contributing to the [gluck-bot](https://github.com/Willibald-Gluck-Gymnasium/gluck-bot)** of the [Willibald Gluck Gymnasium](https://github.com/Willibald-Gluck-Gymnasium).
+I want to collaborate on some nice projects, because **I want to show and improve my skills**. At the moment I'm also diving into some nice AI stuff, by **contributing to the [GluckBot](https://github.com/Willibald-Gluck-Gymnasium/gluck-bot)** of the [Willibald Gluck Gymnasium](https://github.com/Willibald-Gluck-Gymnasium).
 However: I'm still working on my projects listed above, so if you want to help me, **feel free to contribute** some nice wallpapers to my collection or contribute to GymTrim or CodeJudge. I'm glad if people report issues or if they even contribute, because it shows that my projects are actually useful.
 
 ### 👨‍💻 About me
@@ -21,7 +21,7 @@ However: I'm still working on my projects listed above, so if you want to help m
 |----------------------------|---------------------------|
 | - Improving GymTrim & CodeJudge | - Report issues |
 | - Creating new wallpapers | - Contribute wallpapers |
-| - Contributing to gluck-bot | - Suggest features |
+| - Contributing to GluckBot | - Suggest features |
 | - Interesting projects | - Star and fork my repositories ⭐ |
 | - Learning more about the languages and frameworks I use | |
 | - Learning Linux by using it (so far I tried Manjaro, Ubuntu, Debian, ...) | |
