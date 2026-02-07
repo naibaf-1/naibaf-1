@@ -14,9 +14,6 @@ However: I'm still working on my projects listed above, so if you want to help m
 - Interested in programming, Linux, Android and open-source
 - Building useful apps and tools
 
-### 🧰 Tech Stack
-**C** (memory basics, algorithms, CLI tools,...) • **Java** (Android, OOP) • **Dart & Flutter** (UI, state management, cross platform) • **Linux** (daily driver, distros tested) • **Android** (App development, ROMs tested) • **Git**
-
 | 🚀 What I'm working on | 🤝 How to support my work |
 |----------------------------|---------------------------|
 | - Improving GymTrim & CodeJudge | - Report issues |
@@ -33,18 +30,46 @@ However: I'm still working on my projects listed above, so if you want to help m
 - Make projects which are actually useful
 
 ### 📦 Repositories & Organisations
-##### 📱 GymTrim
-<img src="./assets/Screenshot_GymTrim_Plans.png" height="250"/>
+<table>
+  <tr>
+    <td valign="top" style="padding-right: 20;">
+      <h5>📱 GymTrim</h5>
+      <img src="./assets/Screenshot_GymTrim_Plans.png" height="250"/>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td valign="top" style="padding-right: 20;">
+      <h5>🖼️ GNOME-Wallpaper-Collection</h5>
+      <img src="./assets/Batam_Panbil_Windham_Bar_Preview.gif" width="300"/>
+    </td>
+    <td valign="top">
+      <h5>🖥️ CodeJudgeOrg</h5>
+      <img src="./assets/Screenshot_CodeJudge_Exercises.png" width="300"/>
+    </td>
+  </tr>
+</table>
 
-##### 🖥️ CodeJudgeOrg
-<img src="./assets/Screenshot_CodeJudge_Exercises.png" width="300"/>
 
-##### 🖼️ GNOME-Wallpaper-Collection
-<img src="./assets/Batam_Panbil_Windham_Bar_Preview.gif" width="300"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naibaf-1&theme=github_dark" width="350"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naibaf-1&theme=github_dark" width="350"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naibaf-1&theme=github_dark" width="700"/> 
+### 🧰 Tech Stack
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naibaf-1&theme=github_dark"/>
+    </td>
+    <td style="padding-right: 24;" valign="top">
+      <img src="https://skillicons.dev/icons?i=androidstudio,java,vscode,dart,flutter,c,figma,sqlite,svg,git,github,gitlab,md,linux,debian,ubuntu,discord,stackoverflow&perline=6">
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naibaf-1&theme=github_dark"/> 
+    </td>
+  </tr>
+</table>
 
 ### 👥 Contact
 If you want to contact me, you can do so via this mail address: Roland.Fabian@pm.me
