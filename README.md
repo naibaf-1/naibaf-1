@@ -56,10 +56,10 @@ However: I'm still working on my projects listed above, so if you want to help m
 <table>
   <tr>
     <td valign="top">
-      <img src="https://raw.githubusercontent.com/naibaf-1/naibaf-1-github-stats/main/languageStats.png?timestamp=1", width="350">
+      <img src="https://raw.githubusercontent.com/naibaf-1/naibaf-1-github-stats/main/languageStats.png?timestamp=1", width="400">
     </td>
     <td style="padding-right: 24;" valign="top">
-      <img src="https://skillicons.dev/icons?i=androidstudio,java,vscode,dart,flutter,c,figma,sqlite,svg,git,github,gitlab,md,linux,debian,ubuntu,discord,stackoverflow&perline=6">
+      <img src="https://skillicons.dev/icons?i=androidstudio,java,vscode,dart,flutter,c,figma,sqlite,svg,md,git,github,gitlab,stackoverflow,discord,linux,debian,ubuntu&perline=5">
     </td>
   </tr>
 </table>
